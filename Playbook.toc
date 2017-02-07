@@ -1,0 +1,45 @@
+\contentsline {chapter}{Buffer Recipes}{7}{chapter*.3}
+\contentsline {section}{General Buffers}{7}{section*.4}
+\contentsline {subsection}{Stock Solutions}{7}{subsection*.5}
+\contentsline {subsection}{Phosphate Buffer Recipes}{8}{subsection*.6}
+\contentsline {subsection}{Antibiotics}{9}{subsection*.7}
+\contentsline {section}{Nickel Affinity Buffers}{10}{section*.8}
+\contentsline {section}{Agarose Gels}{11}{section*.9}
+\contentsline {subsection}{50x TAE}{12}{subsection*.10}
+\contentsline {subsection}{6x Agarose Loading Buffer}{12}{subsection*.11}
+\contentsline {section}{SDS-PAGE Gels}{13}{section*.12}
+\contentsline {subsection}{SDS-PAGE 10x Running Buffer}{13}{subsection*.13}
+\contentsline {subsection}{SDS-PAGE Resolving Buffer}{13}{subsection*.14}
+\contentsline {subsection}{SDS-PAGE 4\% Stacker}{14}{subsection*.15}
+\contentsline {subsection}{Gradient Gels}{14}{subsection*.16}
+\contentsline {subsection}{SDS-PAGE Loading Buffer}{14}{subsection*.17}
+\contentsline {subsection}{Preparing a Gel}{15}{subsection*.18}
+\contentsline {subsection}{5x TBE}{15}{subsection*.19}
+\contentsline {subsection}{10x TBE}{15}{subsection*.20}
+\contentsline {subsection}{Destain}{15}{subsection*.21}
+\contentsline {section}{Preparing Dialysis Tubing}{15}{section*.22}
+\contentsline {section}{Native-PAGE gels}{16}{section*.23}
+\contentsline {subsection}{Native-PAGE 10x Running Buffer}{16}{subsection*.24}
+\contentsline {subsection}{Native-PAGE Resolving Buffer}{16}{subsection*.25}
+\contentsline {subsection}{Native-PAGE Loading Buffer}{16}{subsection*.26}
+\contentsline {subsection}{Preparing a Gel}{17}{subsection*.27}
+\contentsline {chapter}{DNA Handling}{19}{chapter*.28}
+\contentsline {section}{Ethanol Precipitation}{19}{section*.29}
+\contentsline {section}{Radioactive Substrate Labelling}{19}{section*.30}
+\contentsline {subsection}{General Substrate Labelling}{19}{subsection*.31}
+\contentsline {subsection}{Making Annealed Substrates e.g. M13 Oligo Probe}{20}{subsection*.32}
+\contentsline {chapter}{Cell Methods}{21}{chapter*.33}
+\contentsline {section}{Making Electrocompetant E.coli}{21}{section*.34}
+\contentsline {section}{Electroporation}{22}{section*.35}
+\contentsline {section}{Glycerol Stocks}{23}{section*.36}
+\contentsline {chapter}{Purification Methods}{25}{chapter*.37}
+\contentsline {section}{TEV Protease}{25}{section*.38}
+\contentsline {subsection}{General information}{25}{subsection*.39}
+\contentsline {subsection}{Transformation and Expression}{25}{subsection*.40}
+\contentsline {subsection}{Purification(column sizes are for 2L cells)}{26}{subsection*.41}
+\contentsline {chapter}{Appendix}{27}{appendix*.42}
+\contentsline {section}{Door Codes}{27}{section*.43}
+\contentsline {section}{Useful Websites}{27}{section*.44}
+\contentsline {section}{Project Codes}{28}{section*.45}
+\contentsline {section}{Extinction Coefficients}{28}{section*.46}
+\contentsfinish 
